@@ -1,4 +1,4 @@
-# This repository is my portfolio using react and tailwind css
+# This is my portfolio using React and Tailwind CSS
 
 # ToDo
 - Contact
